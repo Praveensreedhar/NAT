@@ -5,7 +5,9 @@
 Assign the ip address for each interface with below mentioned zones.
 
 Public NW 100.1.1.0/24
+
 DMZ 10.1.10.0/24
+
 Internal 192.168.1.0/24
 
 
